@@ -1,4 +1,4 @@
-var cacheName = 'NomeApp-v';
+var cacheName = 'PWA';
 var filesToCache = [
  './',
  './index.html',
