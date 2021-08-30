@@ -1,8 +1,8 @@
 var cacheName = 'NomeApp-v';
 var FilesToCache = [
-  './',
-  './index.html',
-  './manifest.json'
+  '',
+  'index.html',
+  'manifest.json'
 ];
 self.addEventListener('install', function(e){
   e.waitUntil(
